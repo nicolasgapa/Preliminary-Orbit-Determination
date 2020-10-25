@@ -1,4 +1,7 @@
 # Preliminary-Orbit-Determination
+
+Author: Nicolas Gachancipa
+
 Obtain orbit position and velocity vectors from ground-based angle and range measurements.
 
 This algorithm obtains position and velocity (R and V) vectors in the Earth-centered inertial (ECI) coordinate frame, given ground-based angle and range measurements for an orbital element (e.g. satellite) in the Topocentric horizon (SEZ) frame.
